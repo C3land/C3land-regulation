@@ -1,4 +1,4 @@
-# A regulation for C3_land
+# A regulation of C3_land
 
 ### Format
 - Markdown
